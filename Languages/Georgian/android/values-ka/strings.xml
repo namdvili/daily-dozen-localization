@@ -1,62 +1,62 @@
 <resources>
-    <string name="app_name">Daily Dozen</string>
+    <string name="app_name">დღის ულუფა</string>
 
-    <string name="beans">Beans</string>
-    <string name="berries">Berries</string>
-    <string name="other_fruits">Other Fruits</string>
-    <string name="cruciferous_vegetables">Cruciferous Vegetables</string>
-    <string name="greens">Greens</string>
-    <string name="other_vegetables">Other Vegetables</string>
-    <string name="flaxseeds">Flaxseeds</string>
-    <string name="nuts">Nuts and Seeds</string>
-    <string name="spices">Herbs and Spices</string>
-    <string name="whole_grains">Whole Grains</string>
-    <string name="beverages">Beverages</string>
-    <string name="exercise">Exercise</string>
-    <string name="vitamin_b12">Vitamin B12</string>
-    <string name="serving_sizes">Serving Sizes</string>
-    <string name="types">Types</string>
-    <string name="history">History</string>
+    <string name="beans">პარკოსნები</string>
+    <string name="berries">კენკრა</string>
+    <string name="other_fruits">სხვა ხილი</string>
+    <string name="cruciferous_vegetables">კომბოსტოსებრი</string>
+    <string name="greens">ფოთლოვანი</string>
+    <string name="other_vegetables">სხვა ბოსტნეული</string>
+    <string name="flaxseeds">სელის თესლი</string>
+    <string name="nuts">თხილეული</string>
+    <string name="spices">საკმაზები</string>
+    <string name="whole_grains">მარცვლეული</string>
+    <string name="beverages">სითხეები</string>
+    <string name="exercise">აქტივობა</string>
+    <string name="vitamin_b12">ვიტამინი B12</string>
+    <string name="serving_sizes">ულუფის ზომა</string>
+    <string name="types">ტიპი</string>
+    <string name="history">ისტორია</string>
     <string name="servings_some">Some servings</string>
-    <string name="servings_all">All servings</string>
-    <string name="servings">Servings</string>
+    <string name="servings_all">ყველა ულუფა</string>
+    <string name="servings">ულუფები</string>
     <string name="out_of">out of</string>
     <string name="moving_average">Moving Average</string>
-    <string name="about">About</string>
-    <string name="about_this_app">About this app</string>
-    <string name="latest_videos">Latest Videos</string>
-    <string name="title_how_not_to_die">Book: How Not to Die</string>
-    <string name="title_cookbook">Book: Cookbook</string>
-    <string name="title_how_not_to_diet">Book: How Not to Diet</string>
-    <string name="daily_dozen_challenge">Daily Dozen Challenge</string>
+    <string name="about">ინფო</string>
+    <string name="about_this_app">ამ აპლიკაციის შესახებ</string>
+    <string name="latest_videos">ვიდეოები</string>
+    <string name="title_how_not_to_die">წიგნი: როგორ გადავრჩეთ</string>
+    <string name="title_cookbook">წიგნი: რეცეპტები</string>
+    <string name="title_how_not_to_diet">წიგნი: დიეტის გარეშე</string>
+    <string name="daily_dozen_challenge">გამოწვევა Daily Dozen</string>
     <string name="donate">Donate</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">გამოწერა</string>
     <string name="open_source">Open Source</string>
-    <string name="permission_needed_to_write_storage">Can\'t backup without permission to write to storage</string>
-    <string name="backup_failed">Backup failed</string>
-    <string name="restore_failed">Restore failed</string>
-    <string name="backup_success">Backup successful</string>
-    <string name="restore_success">Restore successful</string>
-    <string name="restore_confirm_title">Restore Backup</string>
-    <string name="restore_confirm_message">Any existing data will be deleted before restoring from backup. Do you wish to continue?</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="backup">Backup</string>
-    <string name="food_info">Food Info</string>
-    <string name="food_history">Food History</string>
-    <string name="daily_servings_history">Daily Servings History</string>
+    <string name="permission_needed_to_write_storage">დაარქივებისათვის საჭიროა ფაილებზე წვდომა</string>
+    <string name="backup_failed">დაარქივება ჩაიშალა</string>
+    <string name="restore_failed">აღდგენა ჩაიშალა</string>
+    <string name="backup_success">დაარქივება შესრულდა</string>
+    <string name="restore_success">არქივის აღდგენა შესრულდა</string>
+    <string name="restore_confirm_title">არქივის აღდგენა</string>
+    <string name="restore_confirm_message">აღდგენის მონაცემები წაშლის აპლიკაციაში ამჟამინდელ მონაცემებს. გავაგრძელოთ?</string>
+    <string name="yes">კი</string>
+    <string name="no">არა</string>
+    <string name="backup">დაარქივება</string>
+    <string name="food_info">პროდუქტის ინფო</string>
+    <string name="food_history">საკვების ისტორია</string>
+    <string name="daily_servings_history">დრიური ულუფის ისტორია</string>
     <string name="no_servings_recorded">You have not recorded any servings yet!</string>
-    <string name="task_backup_title">Backing up</string>
-    <string name="task_restore_title">Restoring</string>
+    <string name="task_backup_title">დაარქივება</string>
+    <string name="task_restore_title">არქივის აღდგენა</string>
     <string name="task_calculating_streaks_title">Calculating streaks</string>
-    <string name="back_to_today">Back to today</string>
+    <string name="back_to_today">დღევანდელ თარიღზე დაბრუნება</string>
     <string name="debug">Debug</string>
-    <string name="debug_clear_data">Clear all data</string>
+    <string name="debug_clear_data">ყველა მონაცემის წაშლა</string>
     <string name="debug_clear_data_message">This will delete all entered Servings. Do you wish to continue?</string>
-    <string name="OK">OK</string>
+    <string name="OK">კარგი</string>
     <string name="dialog_streaks_title">New feature: Streaks!</string>
     <string name="dialog_streaks_message">Your database will now be upgraded to support the new streaks feature.</string>
-    <string name="dialog_no_email_apps_title">No email apps found</string>
+    <string name="dialog_no_email_apps_title">ელ-ფოსტის აპლიკაცია არ მოიძებნა</string>
     <string name="dialog_no_email_apps_message">Backing up your data requires you to have an email app installed so you can email the .csv backup file to yourself. Please install an email app and try again.</string>
     <string name="debug_generate_random_data">Generate random data</string>
     <string name="debug_generate_full_data">Generate full data</string>
@@ -67,10 +67,10 @@
     <string name="history_to_generate">History to Generate</string>
     <string name="welcome_to_my_daily_dozen">Welcome to my Daily Dozen!</string>
     <string name="activity_welcome_text">Use this app on a daily basis to keep track of the foods I recommend for optimal health and longevity in my book How Not to Die.</string>
-    <string name="dialog_ask_user_to_rate_app_title">Do you like this app?</string>
-    <string name="dialog_ask_user_to_rate_app_message">Please give us feedback in the Play Store.</string>
-    <string name="rate_now">Give Feedback</string>
-    <string name="not_now">Not Now</string>
+    <string name="dialog_ask_user_to_rate_app_title">მოგწონთ ეს აპლიკაცია?</string>
+    <string name="dialog_ask_user_to_rate_app_message">მხარი დაგვიჭირეთ Play Store-ში.</string>
+    <string name="rate_now">მხარდაჭერა</string>
+    <string name="not_now">სხვა დროს</string>
     <string name="format_version" formatted="false">version %s</string>
     <string name="format_num_days" formatted="false">%d days</string>
     <string name="daily_reminder_title">Daily Dozen Reminder</string>
@@ -78,88 +78,87 @@
     <string name="daily_reminder_settings">Daily Reminder Settings</string>
     <string name="enable_daily_reminder">Enable Daily Reminder</string>
     <string name="remind_me_at">Remind me at</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="play_sound">Play Sound</string>
-    <string name="videos">Videos</string>
-    <string name="units">Units</string>
-    <string name="imperial">Imperial</string>
-    <string name="metric">Metric</string>
-    <string name="error_cannot_handle_url">Could not open url. Please install a browser.</string>
-    <string name="channel_reminders_name">Reminders</string>
-
-    <string name="twenty_one_tweaks">21 Tweaks</string>
-    <string name="tweaks">Tweaks</string>
-    <string name="daily_tweaks_history">Daily Tweaks History</string>
-    <string name="weight_history">Weight History</string>
-    <string name="no_weights_recorded">You have not recorded any weights yet!</string>
-    <string name="task_loading_weights_history_title">Loading Weights History</string>
-    <string name="morning">Morning</string>
-    <string name="evening">Evening</string>
-    <string name="meal_water">Preload with Water</string>
-    <string name="meal_negcal">Preload with "Negative Calorie" Foods</string>
-    <string name="meal_vinegar">Incorporate Vinegar (2 tsp with each meal)</string>
-    <string name="meal_undistracted">Enjoy Undistracted Meals</string>
-    <string name="meal_twentyminutes">Follow the Twenty-Minute Rule</string>
-    <string name="daily_blackcumin">Black Cumin (¼ tsp)</string>
-    <string name="daily_garlic">Garlic Powder (¼ tsp)</string>
-    <string name="daily_ginger">Ground Ginger (1 tsp) or Cayenne Pepper (½ tsp)</string>
-    <string name="daily_nutriyeast">Nutritional Yeast (2 tsp)</string>
-    <string name="daily_cumin">Cumin (½ tsp with lunch and dinner)</string>
-    <string name="daily_greentea">Green Tea (3 cups)</string>
-    <string name="daily_hydrate">Stay Hydrated</string>
-    <string name="daily_deflourdiet">Deflour Your Diet</string>
+    <string name="vibrate">ვიბრაცია</string>
+    <string name="play_sound">ხმოვანი</string>
+    <string name="videos">ვიდეოები</string>
+    <string name="units">საზომი ერთეული</string>
+    <string name="imperial">იმპერიული</string>
+    <string name="metric">მეტრული</string>
+    <string name="error_cannot_handle_url">ბმული არ გაიხსნა. დააინსტალეთ web-ბრაუზერი.</string>
+    <string name="channel_reminders_name">შეხსენებები</string>
+    <string name="twenty_one_tweaks">21 ნიუანსი</string>
+    <string name="tweaks">ნიუანსები</string>
+    <string name="daily_tweaks_history">ნიუანსების ისტორია</string>
+    <string name="weight_history">წონის ისტორია</string>
+    <string name="no_weights_recorded">თქვენ ჯერ არ გაგიკეთებიათ წონის ჩანაწერი!</string>
+    <string name="task_loading_weights_history_title"> წონის ჩანაწერის ჩატვირთვა</string>
+    <string name="morning">დილა</string>
+    <string name="evening">საღამო</string>
+    <string name="meal_water">ჭამამდე სითხის მიღება</string>
+    <string name="meal_negcal">ჭამის წინ ,,მინუს კალორიის,, მქონე საკვები</string>
+    <string name="meal_vinegar">ჭამის წინ 2 ჩ.კოვზი ვაშლის ძმარი, ჭიქა წყალში</string>
+    <string name="meal_undistracted">ყურადღება არ გაიფანტო ჭამისას</string>
+    <string name="meal_twentyminutes">გაითვალისწინე 20 წუთიანი პრინციპი</string>
+    <string name="daily_blackcumin">შავი ძირა (¼ ჩ.კოვზი)</string>
+    <string name="daily_garlic">ნიორის ფხვნილი (¼ ჩ.კოვზი)</string>
+    <string name="daily_ginger">ჯანჯაფილი (1 ჩ.კოვზი) ან კაიენური წიწაკა (½ ჩ.კოვზი)</string>
+    <string name="daily_nutriyeast">საკვები საფუარი (2 ჩ.კოვზი)</string>
+    <string name="daily_cumin">ძირა (½ tsp with lunch and dinner)</string>
+    <string name="daily_greentea">მწვანე ჩაი (3 ფინჯანი დღეში)</string>
+    <string name="daily_hydrate">მიიღე წყალი</string>
+    <string name="daily_deflourdiet">ნაკლები ცომეული</string>
     <string name="daily_frontload">Front-Load Your Calories</string>
     <string name="daily_timerestrict">Time-Restrict Your Eating</string>
     <string name="exercise_timing">Optimize Exercise Timing</string>
-    <string name="weigh_twice">Weigh Yourself Twice a Day</string>
+    <string name="weigh_twice">დღეში ორჯერ აწონვა</string>
     <string name="complete_intentions">Complete Your Implementation Intentions</string>
-    <string name="nightly_fast">Fast After 7:00 pm</string>
-    <string name="nightly_sleep">Get Sufficient Sleep</string>
+    <string name="nightly_fast">არ ჭამო 19:00-ის შემდეგ</string>
+    <string name="nightly_sleep">საკმარისი ძილი</string>
     <string name="nightly_trendelenburg">Experiment with Mild Trendelenburg</string>
     <string name="debug_generate_weight_data">Generate Weight Data</string>
     <string name="average_weight_on_day">Average weight on day</string>
     <string name="meal_water_short">Preload with Water</string>
     <string name="meal_negcal_short">Preload with "Negative Calorie" Foods</string>
-    <string name="meal_vinegar_short">Incorporate Vinegar (2 tsp with each meal)</string>
-    <string name="meal_undistracted_short">Enjoy Undistracted Meals</string>
+    <string name="meal_vinegar_short">მიიღე ვაშლის ძმარი (2 ჩ.კოვზი ყოველ ჭამაზე)</string>
+    <string name="meal_undistracted_short">ყურადღება არ გაიფანტო ჭამისას</string>
     <string name="meal_twentyminutes_short">Follow the Twenty-Minute Rule</string>
-    <string name="daily_blackcumin_short">Black Cumin (Nigella sativa) (¼ tsp)</string>
-    <string name="daily_garlic_short">Garlic Powder (¼ tsp)</string>
-    <string name="daily_ginger_short">Ground Ginger (1 tsp) or Cayenne Pepper (½ tsp)</string>
-    <string name="daily_nutriyeast_short">Nutritional Yeast (2 tsp)</string>
-    <string name="daily_cumin_short">Cumin (Cuminum cyminum) (½ tsp with lunch and dinner)</string>
-    <string name="daily_greentea_short">Green Tea (3 cups)</string>
-    <string name="daily_hydrate_short">Stay Hydrated</string>
-    <string name="daily_deflourdiet_short">Deflour Your Diet</string>
+    <string name="daily_blackcumin_short">შავი ძირა (Nigella sativa) (¼ tsp)</string>
+    <string name="daily_garlic_short">ნიორის ფხვნილი (¼ ჩ.კოვზი)</string>
+    <string name="daily_ginger_short">ჯანჯაფილი (1 ჩ.კოვზი) ან კაიენური წიწაკა (½ ჩ.კოვზი)</string>
+    <string name="daily_nutriyeast_short">საკვები საფუარი (2 ჩ.კოვზი)</string>
+    <string name="daily_cumin_short">ძირა (Cuminum cyminum) (½ tsp with lunch and dinner)</string>
+    <string name="daily_greentea_short">მწვანე ჩაი (3-ჯერ)</string>
+    <string name="daily_hydrate_short">სვი წყალი</string>
+    <string name="daily_deflourdiet_short">ნაკლები ფქვილეული</string>
     <string name="daily_frontload_short">Front-Load Your Calories</string>
     <string name="daily_timerestrict_short">Time-Restrict Your Eating</string>
     <string name="exercise_timing_short">Optimize Exercise Timing</string>
-    <string name="weigh_twice_short">Weigh Yourself Twice a Day</string>
+    <string name="weigh_twice_short">აიწონე დღეში ორჯერ</string>
     <string name="complete_intentions_short">Complete Your Implementation Intentions</string>
-    <string name="nightly_fast_short">Fast After 7:00 p.m.</string>
-    <string name="nightly_sleep_short">Get Sufficient Sleep</string>
+    <string name="nightly_fast_short">ვახშამი არაუგვიანეს 19:00</string>
+    <string name="nightly_sleep_short">საკმარისი ძილი</string>
     <string name="nightly_trendelenburg_short">Experiment with Mild Trendelenburg</string>
-    <string name="meal_water_text">Time your metabolism-boosting two cups of cool or cold unflavored water before each meal to also take advantage of its preload benefits.</string>
-    <string name="meal_negcal_text">As the first course, start each meal with an apple or a Green Light soup or salad containing fewer than one hundred calories per cup.</string>
+    <string name="meal_water_text">Time your metabolism-boosting two ფინჯანი of cool or cold unflavored water before each meal to also take advantage of its preload benefits.</string>
+    <string name="meal_negcal_text">As the first course, start each meal with an apple or a Green Light soup or salad containing fewer than one hundred calories per ფინჯანი.</string>
     <string name="meal_vinegar_text">Never drink vinegar straight. Instead, flavor meals or dress a side salad with any of the sweet and savory vinegars out there. If you want to drink it, make sure to mix it in a glass of water and, afterward, be sure to rinse your mouth out with water to protect your tooth enamel.</string>
-    <string name="meal_undistracted_text">Don\'t eat while watching TV or playing on your phone. Give yourself a check for each meal you\'re able to eat without distraction.</string>
-    <string name="meal_twentyminutes_text">Whether through increasing viscosity or the number of chews, or decreasing bite size and eating rate, dozens of studies have demonstrated that no matter how we boost the amount of time food is in our mouths, it can result in lower caloric intake. So extend meal duration to at least twenty minutes to allow your natural satiety signals to take full effect. How? By choosing foods that take longer to eat and eating them in a way that prolongs the time they stay in your mouth. Think bulkier, hardier, chewier foods in smaller, well-chewed bites.</string>
-    <string name="daily_blackcumin_text">As noted in the Appetite Suppression section, a systematic review and meta-analysis of randomized, controlled weight-loss trials found that about a quarter teaspoon of black cumin powder every day appears to reduce body mass index within a span of a couple of months. Note that black cumin is different from regular cumin, for which the dosing is different.</string>
-    <string name="daily_garlic_text">Randomized, double-blind, placebo-controlled studies have found that as little as a daily quarter teaspoon of garlic powder can reduce body fat at a cost of perhaps two cents a day.</string>
-    <string name="daily_ginger_text">Randomized controlled trials have found that ¼ teaspoon to 1½ teaspoons a day of ground ginger significantly decreased body weight for just pennies a day. It can be as easy as stirring the ground spice into a cup of hot water. Note: Ginger may work better in the morning than evening. Chai tea is a tasty way to combine the green tea and ginger tricks into a single beverage. Alternately, for BAT activation, you can add one raw jalapeño pepper or a half teaspoon of red pepper powder (or, presumably, crushed red pepper flakes) into your daily diet. To help beat the heat, you can very thinly slice or finely chop the jalapeño to reduce its bite to little prickles, or mix the red pepper into soup or the whole-food vegetable smoothie I featured in one of my cooking videos on NutritionFacts.org.</string>
+    <string name="meal_undistracted_text">ჭამის დროს არ უყურო ტელევიზორს ან ტელეფონს. </string>
+    <string name="meal_twentyminutes_text">ათობით კვლევამ აჩვენა, რომ ჭამის პროცესი უნდა გრძელდებოდეს 20 წუთი. არ იჩქაროთ ჭამის დროს. დაღეჭეთ ყოველი ლუკმა იმდენ ხანს, სანამ სითხედ არ გადაიქცევა.</string>
+    <string name="daily_blackcumin_text">As noted in the Appetite Suppression section, a systematic review and meta-analysis of randomized, controlled weight-loss trials found that about a quarter teaspoon of შავი ძირა powder ყოველ დღე appears to reduce body mass index within a span of a couple of months. Note that შავი ძირა is different from regular ძირა, for which the dosing is different.</string>
+    <string name="daily_garlic_text">Randomized, double-blind, placebo-controlled studies have found that as little as a daily quarter teaspoon of ნიორის ფხვნილი can reduce body fat at a cost of perhaps two cents a day.</string>
+    <string name="daily_ginger_text">Randomized controlled trials have found that ¼ teaspoon to 1½ teaspoons a day of ground ginger significantly decreased body weight for just pennies a day. It can be as easy as stirring the ground spice into a ფინჯანი of hot water. Note: Ginger may work better in the morning than evening. Chai tea is a tasty way to combine the მწვანე ჩაი and ginger tricks into a single beverage. Alternately, for BAT activation, you can add one raw jalapeño pepper or a half teaspoon of red pepper powder (or, presumably, crushed red pepper flakes) into your daily diet. To help beat the heat, you can very thinly slice or finely chop the jalapeño to reduce its bite to little prickles, or mix the red pepper into soup or the whole-food vegetable smoothie I featured in one of my cooking videos on NutritionFacts.org.</string>
     <string name="daily_nutriyeast_text">Two teaspoons of baker\'s, brewer\'s, or nutritional yeast contains roughly the amount of beta 1,3/1,6 glucans found in randomized, double-blind, placebo-controlled clinical trials to facilitate weight loss.</string>
-    <string name="daily_cumin_text">Overweight women randomized to add a half teaspoon of cumin to their lunches and dinners beat out the control group by four more pounds and an extra inch off their waists. There is also evidence to support the use of the spice saffron, but a pinch a day would cost a dollar, whereas a teaspoon of cumin costs less than ten cents.</string>
-    <string name="daily_greentea_text">Drink three cups a day between meals (waiting at least an hour after a meal so as to not interfere with iron absorption). During meals, drink water, black coffee, or hibiscus tea mixed 6:1 with lemon verbena, but never exceed three cups of fluid an hour (important given my water preloading advice). Take advantage of the reinforcing effect of caffeine by drinking your green tea along with something healthy you wish you liked more, but don\'t consume large amounts of caffeine within six hours of bedtime. Taking your tea without sweetener is best, but if you typically sweeten your tea with honey or sugar, try yacon syrup instead.</string>
-    <string name="daily_hydrate_text">Check this box if your urine never appears darker than a pale yellow. Note that if you\'re eating riboflavin-fortified foods (such as nutritional yeast), then base this instead on getting nine cups of unsweetened beverages a day for women (which would be taken care of by the green tea and water preloading recommendations) or thirteen cups a day for men. If you have heart or kidney issues, don\'t increase fluid intake at all without first talking with your physician. Remember, diet soda may be calorie-free, but it\'s not consequence-free, as we learned in the Low in Added Sugar section.</string>
-    <string name="daily_deflourdiet_text">Check this box every day your whole grain servings are in the form of intact grains. The powdering of even 100 percent whole grains robs our microbiomes of the starch that would otherwise be ferried down to our colons enclosed in unbroken cell walls.</string>
+    <string name="daily_cumin_text">Overweight women randomized to add a half teaspoon of ძირა to their lunches and dinners beat out the control group by four more pounds and an extra inch off their waists. There is also evidence to support the use of the spice saffron, but a pinch a day would cost a dollar, whereas a teaspoon of ძირა costs less than ten cents.</string>
+    <string name="daily_greentea_text">Drink three ფინჯანი a day between meals (waiting at least an hour after a meal so as to not interfere with iron absorption). During meals, drink water, შავი ყავა, or hibiscus tea mixed 6:1 with lemon verbena, but never exceed three ფინჯანი of fluid an hour (important given my water preloading advice). Take advantage of the reinforcing effect of caffeine by drinking your მწვანე ჩაი along with something healthy you wish you liked more, but don\'t consume large amounts of caffeine within six hours of bedtime. Taking your tea without sweetener is best, but if you typically sweeten your tea with honey or sugar, try yacon syrup instead.</string>
+    <string name="daily_hydrate_text">Check this box if your urine never appears darker than a pale yellow. Note that if you\'re eating riboflavin-fortified foods (such as nutritional yeast), then base this instead on getting nine ფინჯანი of unsweetened beverages a day for women (which would be taken care of by the მწვანე ჩაი and water preloading recommendations) or thirteen ფინჯანი a day for men. If you have heart or kidney issues, don\'t increase fluid intake at all without first talking with your physician. Remember, diet soda may be calorie-free, but it\'s not consequence-free, as we learned in the Low in Added Sugar section.</string>
+    <string name="daily_deflourdiet_text">Check this box ყოველ დღე your whole grain servings are in the form of intact grains. The powdering of even 100 percent whole grains robs our microbiomes of the starch that would otherwise be ferried down to our colons enclosed in unbroken cell walls.</string>
     <string name="daily_frontload_text">There are metabolic benefits to distributing more calories to earlier in the day, so make breakfast (ideally) or lunch your largest meal of the day in true king/prince/pauper style.</string>
     <string name="daily_timerestrict_text">Confine eating to a daily window of time of your choosing under twelve hours in length that you can stick to consistently, seven days a week. Given the circadian benefits of reducing evening food intake, the window should end before 7:00 p.m.</string>
     <string name="exercise_timing_text">The Daily Dozen\'s recommendation for optimum exercise duration for longevity is ninety minutes of moderately intense activity a day, which is also the optimum exercise duration for weight loss. Anytime is good, and the more, the better, but there may be an advantage to exercising in a fasted state, at least six hours after your last meal. Typically, this would mean before breakfast, but if you timed it right, you could exercise midday before a late lunch or, if lunch is eaten early enough, before dinner. This is the timing for nondiabetics. Diabetics and prediabetics should instead start exercising thirty minutes after the start of a meal and ideally go for at least an hour to completely straddle the blood sugar peak. If you had to choose a single meal to exercise after, it would be dinner, due to the circadian rhythm of blood sugar control that wanes throughout the day. Ideally, though, breakfast would be the largest meal of the day, and you\'d exercise after that—or, even better, after every meal.</string>
     <string name="weigh_twice_text">Regular self-weighing is considered crucial for long-term weight control, but there is insufficient evidence to support a specific frequency of weighing. My recommendation is based on the one study that found that twice daily—upon waking and right before bed—appeared superior to once a day (about six versus two pounds of weight loss over twelve weeks).</string>
-    <string name="complete_intentions_text">Every two months, create three new implementation intentions—"if X, then Y" plans to perform a particular behavior in a specific context—and check each one of them off as you complete them every day.</string>
+    <string name="complete_intentions_text">Every two months, create three new implementation intentions—"if X, then Y" plans to perform a particular behavior in a specific context—and check each one of them off as you complete them ყოველ დღე.</string>
     <string name="nightly_fast_text">Due to our circadian rhythms, food eaten at night is more fattening than the exact same food eaten earlier in the day, so fast every night for at least twelve hours starting before 7:00 p.m. The fewer calories after sundown, the better.</string>
     <string name="nightly_sleep_text">Check this box if you get at least seven hours of sleep at your regular bedtime.</string>
-    <string name="nightly_trendelenburg_text">Try spending at least four hours a night lying with your body tilted head-down six degrees by elevating the posts at the foot of your bed by eight inches (or by nine inches if you have a California king). Be extremely careful when you get out of bed, as this causes orthostatic intolerance in most people, even if you\'re young and healthy—meaning if you get up too fast, you can feel dizzy, faint, or light-headed and could fall and hurt yourself. So get up slowly. Drinking two cups of cold water thirty minutes before rising may also help prevent this potentially hazardous side effect.\n*IMPORTANT: Do not try this at home at all if you have any heart or lung issues, acid reflux, or problems with your brain (like head trauma) or eyes (even a family history of glaucoma disqualifies you). Also do not try this until you ask your physician if they think it\'s safe for you to sleep in mild Trendelenburg.*</string>
+    <string name="nightly_trendelenburg_text">Try spending at least four hours a night lying with your body tilted head-down six degrees by elevating the posts at the foot of your bed by eight inches (or by nine inches if you have a California king). Be extremely careful when you get out of bed, as this causes orthostatic intolerance in most people, even if you\'re young and healthy—meaning if you get up too fast, you can feel dizzy, faint, or light-headed and could fall and hurt yourself. So get up slowly. Drinking two ფინჯანი of cold water thirty minutes before rising may also help prevent this potentially hazardous side effect.\n*IMPORTANT: Do not try this at home at all if you have any heart or lung issues, acid reflux, or problems with your brain (like head trauma) or eyes (even a family history of glaucoma disqualifies you). Also do not try this until you ask your physician if they think it\'s safe for you to sleep in mild Trendelenburg.*</string>
     <string name="for_health_and_weight_loss">For Health and Weight Loss</string>
     <string name="for_health_alone">For Health Alone</string>
     <string name="daily_dozen_and_tweaks">Daily Dozen + 21 Tweaks</string>
@@ -167,13 +166,13 @@
 
     <string name="weight">Weight</string>
     <string name="tweak_group_meal">At Each Meal</string>
-    <string name="tweak_group_daily">Every Day</string>
+    <string name="tweak_group_daily">ყოველ დღე</string>
     <string name="tweak_group_dailydoses">Take your daily doses</string>
     <string name="tweak_group_nightly">Every Night</string>
     <string name="about_tweak">About Tweak</string>
 
     <string-array name="about_text_lines">
-        <item>This app was created by John Slavick.</item>
+        <item>ამ აპლიკაციის ავტორი John Slavick.</item>
         <item />
         <item>The following open source libraries are used: ActiveAndroid, android-iconify, EventBus, LikeAnimation, and MPAndroidChart.</item>
     </string-array>
@@ -189,23 +188,23 @@
     </string-array>
 
     <string-array name="servings_time_scale_choices">
-        <item>Day</item>
-        <item>Month</item>
-        <item>Year</item>
+        <item>დღე</item>
+        <item>თვე</item>
+        <item>წელი</item>
     </string-array>
 
     <string-array name="history_to_generate_choices">
-        <item>1 month</item>
-        <item>3 months</item>
-        <item>6 months</item>
-        <item>1 year</item>
-        <item>2 years</item>
-        <item>5 years</item>
+        <item>1 თვე</item>
+        <item>3 თვე</item>
+        <item>6 თვე</item>
+        <item>1 წელი</item>
+        <item>2 წელი</item>
+        <item>5 წელი</item>
     </string-array>
 
     <string-array name="food_info_types_beans">
-        <item>Black beans</item>
-        <item>Black-eyed peas</item>
+        <item>შავი ლობიო</item>
+        <item>შავი-eyed peas</item>
         <item>Butter beans</item>
         <item>Cannellini beans</item>
         <item>Chickpeas/Garbanzo beans</item>
@@ -225,7 +224,7 @@
     <string-array name="food_info_types_berries">
         <item>Acai berries</item>
         <item>Barberries</item>
-        <item>Blackberries</item>
+        <item>შავიberries</item>
         <item>Blueberries</item>
         <item>Cherries (sweet or tart)</item>
         <item>Concord grapes</item>
@@ -233,39 +232,39 @@
         <item>Goji berries</item>
         <item>Kumquats</item>
         <item>Mulberries</item>
-        <item>Raspberries (black or red)</item>
+        <item>Raspberries (შავი or red)</item>
         <item>Strawberries</item>
     </string-array>
 
     <string-array name="food_info_types_other_fruits">
-        <item>Apples</item>
+        <item>ვაშლი</item>
         <item>Dried apricots</item>
-        <item>Avocados</item>
-        <item>Bananas</item>
+        <item>ავოკადო</item>
+        <item>ბანანი</item>
         <item>Cantaloupe</item>
         <item>Clementines</item>
-        <item>Dates</item>
+        <item>ფინიკი</item>
         <item>Dried figs</item>
-        <item>Grapefruit</item>
+        <item>გრეიპფრუტი</item>
         <item>Honeydew</item>
-        <item>Kiwifruit</item>
-        <item>Lemons</item>
-        <item>Limes</item>
+        <item>კივი</item>
+        <item>ლიმონი</item>
+        <item>ლაიმი</item>
         <item>Lychees</item>
-        <item>Mangos</item>
+        <item>მანგო</item>
         <item>Nectarines</item>
-        <item>Oranges</item>
-        <item>Papaya</item>
+        <item>ფორთოხალი</item>
+        <item>პაპაია</item>
         <item>Passion fruit</item>
-        <item>Peaches</item>
-        <item>Pears</item>
-        <item>Pineapple</item>
-        <item>Plums (especially black plums)</item>
+        <item>ატამი</item>
+        <item>მსხალი</item>
+        <item>ანანასი</item>
+        <item>Plums (especially შავი plums)</item>
         <item>Pluots</item>
-        <item>Pomegranates</item>
+        <item>ბროწეული</item>
         <item>Prunes</item>
         <item>Tangerines</item>
-        <item>Watermelon</item>
+        <item>საზამთრო</item>
     </string-array>
 
     <string-array name="food_info_types_cruciferous_vegetables">
@@ -277,7 +276,7 @@
         <item>Cauliflower (white, green, orange and purple)</item>
         <item>Collard greens</item>
         <item>Horseradish</item>
-        <item>Kale (black, green, and red)</item>
+        <item>Kale (შავი, green, and red)</item>
         <item>Kohlrabi (green and purple)</item>
         <item>Mustard greens</item>
         <item>Radishes</item>
@@ -286,42 +285,42 @@
     </string-array>
 
     <string-array name="food_info_types_greens">
-        <item>Arugula</item>
-        <item>Beet greens</item>
+        <item>ინდაუ</item>
+        <item>ჭარხლის ფოთოლი</item>
         <item>Collard greens</item>
-        <item>Kale (black, green, and red)</item>
+        <item>Kale (შავი, მწვანე, წითელი)</item>
         <item>Mesclun mix (assorted young salad greens)</item>
-        <item>Mustard greens</item>
-        <item>Sorrel</item>
-        <item>Spinach</item>
-        <item>Swiss chard</item>
-        <item>Turnip greens</item>
+        <item>სარეპტის მდოგვის ფოთოლი</item>
+        <item>მჟაუნა</item>
+        <item>ისპანახი</item>
+        <item>წითელი მხალი</item>
+        <item>თალგამის ფოთლები</item>
     </string-array>
 
     <string-array name="food_info_types_other_vegetables">
         <item>Artichokes</item>
-        <item>Asparagus</item>
-        <item>Beets</item>
+        <item>სატაცური</item>
+        <item>ჭარხალი</item>
         <item>Bell peppers</item>
-        <item>Carrots</item>
-        <item>Corn</item>
-        <item>Garlic</item>
-        <item>Mushrooms (button, oyster, portobello, and shiitake)</item>
+        <item>სტაფილო</item>
+        <item>სიმინდი</item>
+        <item>ნიორი</item>
+        <item>სოკო (button, oyster, portobello, and shiitake)</item>
         <item>Okra</item>
-        <item>Onions</item>
+        <item>ხახვი</item>
         <item>Purple potatoes</item>
-        <item>Pumpkin</item>
-        <item>Sea vegetables (arame, dulse, and nori)</item>
+        <item>გოგრა</item>
+        <item>ზღვის ბოსტნეული (arame, dulse, and nori)</item>
         <item>Snap peas</item>
         <item>Squash (delicata, summer, and spaghetti squash varieties)</item>
         <item>Sweet potatoes/yams</item>
-        <item>Tomatoes</item>
-        <item>Zucchini</item>
+        <item>პომიდორი</item>
+        <item>ყაბაყი</item>
     </string-array>
 
     <string-array name="food_info_types_flaxseeds">
-        <item>Brown flaxseeds</item>
-        <item>Golden flaxseeds</item>
+        <item>ყავისფერი სელის თესლი</item>
+        <item>ოქროსფერი სელის თესლი</item>
     </string-array>
 
     <string-array name="food_info_types_nuts">
@@ -351,11 +350,11 @@
         <item>Cinnamon</item>
         <item>Cloves</item>
         <item>Coriander</item>
-        <item>Cumin</item>
+        <item>ძირა</item>
         <item>Curry powder</item>
         <item>Dill</item>
         <item>Fenugreek</item>
-        <item>Garlic</item>
+        <item>ნიორი</item>
         <item>Ginger</item>
         <item>Horseradish</item>
         <item>Lemongrass</item>
@@ -376,11 +375,11 @@
     </string-array>
 
     <string-array name="food_info_types_whole_grains">
-        <item>Barley</item>
-        <item>Buckwheat</item>
-        <item>Millet</item>
-        <item>Oats</item>
-        <item>Popcorn</item>
+        <item>ქერი</item>
+        <item>წიწიბურა</item>
+        <item>ფეტვი</item>
+        <item>შვრია</item>
+        <item>სიმინდი</item>
         <item>Quinoa</item>
         <item>Rye</item>
         <item>Teff</item>
@@ -388,36 +387,36 @@
     </string-array>
 
     <string-array name="food_info_types_beverages">
-        <item>Black tea</item>
+        <item>შავი ჩაი</item>
         <item>Chai tea</item>
         <item>Vanilla chamomile tea</item>
-        <item>Coffee</item>
+        <item>ყავა</item>
         <item>Earl grey tea</item>
-        <item>Green tea</item>
-        <item>Hibiscus tea</item>
-        <item>Hot chocolate</item>
+        <item>მწვანე ჩაი</item>
+        <item>ჰიბისკუსი</item>
+        <item>ცხელი შოკოლადი</item>
         <item>Jasmine tea</item>
         <item>Lemon balm tea</item>
-        <item>Matcha tea</item>
+        <item>მატჩას ჩაი</item>
         <item>Almond blossom oolong tea</item>
         <item>Peppermint tea</item>
         <item>Rooibos tea</item>
-        <item>Water</item>
-        <item>White tea</item>
+        <item>წყალი</item>
+        <item>თეთრი ჩაი</item>
     </string-array>
 
     <string-array name="food_info_types_exercise">
-        <item>Bicycling</item>
+        <item>ველოსიპედი</item>
         <item>Canoeing</item>
-        <item>Dancing</item>
+        <item>ცეკვა</item>
         <item>Dodgeball</item>
         <item>Downhill skiing</item>
         <item>Fencing</item>
-        <item>Hiking</item>
-        <item>Housework</item>
-        <item>Ice-skating</item>
-        <item>Inline skating</item>
-        <item>Juggling</item>
+        <item>ლაშქრობა</item>
+        <item>საშინაო საქმე</item>
+        <item>ციგურაობა</item>
+        <item>გორგოლაჭი</item>
+        <item>ჟონგლირება</item>
         <item>Jumping on a trampoline</item>
         <item>Paddle boating</item>
         <item>Playing frisbee</item>
@@ -426,35 +425,35 @@
         <item>Shoveling light snow</item>
         <item>Skateboarding</item>
         <item>Snorkeling</item>
-        <item>Surfing</item>
+        <item>სერფინგი</item>
         <item>Swimming recreationally</item>
-        <item>Tennis (doubles)</item>
+        <item>ტენისი (წყვილად)</item>
         <item>Treading water</item>
         <item>Walking briskly (4 mph)</item>
         <item>Water aerobics</item>
         <item>Waterskiing</item>
         <item>Yard work</item>
-        <item>Yoga</item>
+        <item>იოგა</item>
         <item>Backpacking</item>
-        <item>Basketball</item>
-        <item>Bicycling uphill</item>
+        <item>კალათბურთი</item>
+        <item>ველოსიპედით აღმასვლა</item>
         <item>Circuit weight training</item>
         <item>Cross-country skiing</item>
-        <item>Football</item>
-        <item>Hockey</item>
-        <item>Jogging</item>
+        <item>ამერიკული ფეხბურთი</item>
+        <item>ჰოკეი</item>
+        <item>ძუნძული</item>
         <item>Jumping jacks</item>
         <item>Jumping rope</item>
         <item>Lacrosse</item>
-        <item>Push-ups</item>
-        <item>Pull-ups</item>
+        <item>აზიდვები</item>
+        <item>აწევები</item>
         <item>Racquetball</item>
-        <item>Rock climbing</item>
-        <item>Rugby</item>
-        <item>Running</item>
+        <item>კლდეზე ცოცვა</item>
+        <item>რაგბი</item>
+        <item>სირბილი</item>
         <item>Scuba diving</item>
-        <item>Tennis (singles)</item>
-        <item>Soccer</item>
+        <item>ტენისი (ეულად)</item>
+        <item>ფეხბურთი</item>
         <item>Speed skating</item>
         <item>Squash</item>
         <item>Step aerobics</item>
@@ -464,182 +463,182 @@
     </string-array>
 
     <string-array name="food_info_serving_sizes_beans">
-        <item>%s of hummus or bean dip</item>
-        <item>%s cooked beans, split peas, lentils, tofu, or tempeh</item>
-        <item>%s of fresh peas or sprouted lentils</item>
+        <item>%s ჰუმუსი ან ლობიოს სოუსი</item>
+        <item>%s მოხარშული ლობიო, ბარდა, ოსპი, ტოფუ ან ტემპე</item>
+        <item>%s ნედლი ბარდა ან გაღვივებული ოსპი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_beans_imperial">
-        <item>¼ cup</item>
-        <item>½ cup</item>
-        <item>1 cup</item>
+        <item>¼ ფინჯანი</item>
+        <item>½ ფინჯანი</item>
+        <item>1 ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_beans_metric">
-        <item>60 g</item>
-        <item>130 g</item>
-        <item>150 g</item>
+        <item>60 გრ</item>
+        <item>130 გრ</item>
+        <item>150 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_berries">
-        <item>%s fresh or frozen</item>
-        <item>%s dried</item>
+        <item>%s ახალი ან გაყინული</item>
+        <item>%s ჩირის სახით</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_berries_imperial">
-        <item>½ cup</item>
-        <item>¼ cup</item>
+        <item>½ ფინჯანი</item>
+        <item>¼ ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_berries_metric">
-        <item>60 g</item>
-        <item>40 g</item>
+        <item>60 გრ</item>
+        <item>40 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_fruits">
-        <item>%s1 medium-sized fruit</item>
-        <item>%s cut-up fruit</item>
-        <item>%s dried fruit</item>
+        <item>%s1 საშუალო ზომის ნაყოფები</item>
+        <item>%s დაჭრილი ხილი</item>
+        <item>%s ჩირის სახით</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_fruits_imperial">
         <item />
-        <item>1 cup</item>
-        <item>¼ cup</item>
+        <item>1 ფინჯანი</item>
+        <item>¼ ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_fruits_metric">
         <item />
-        <item>120 g</item>
-        <item>40 g</item>
+        <item>120 გრ</item>
+        <item>40 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_cruciferous_vegetables">
-        <item>%s chopped</item>
-        <item>%s Brussels or broccoli sprouts</item>
-        <item>%s1 tablespoon horseradish</item>
+        <item>%s დაჭრილი</item>
+        <item>%s ბრიუსელის კომბოსტო ან ბროკოლის ღვივები</item>
+        <item>%s1 სუფრის კოვზი პირშუშხა</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_cruciferous_vegetables_imperial">
-        <item>½ cup</item>
-        <item>¼ cup</item>
+        <item>½ ფინჯანი</item>
+        <item>¼ ფინჯანი</item>
         <item />
     </string-array>
 
     <string-array name="food_info_serving_sizes_cruciferous_vegetables_metric">
-        <item>30–80 g</item>
-        <item>12 g</item>
+        <item>30–80 გრ</item>
+        <item>12 გრ</item>
         <item />
     </string-array>
 
     <string-array name="food_info_serving_sizes_greens">
-        <item>%s raw</item>
-        <item>%s cooked</item>
+        <item>%s ნედლი</item>
+        <item>%s მოხარშული</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_greens_imperial">
-        <item>1 cup</item>
-        <item>½ cup</item>
+        <item>1 ფინჯანი</item>
+        <item>½ ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_greens_metric">
-        <item>60 g</item>
-        <item>90 g</item>
+        <item>60 გრ</item>
+        <item>90 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_vegetables">
-        <item>%s raw leafy vegetables</item>
-        <item>%s raw or cooked nonleafy vegetables</item>
-        <item>%s vegetable juice</item>
-        <item>%s dried mushrooms</item>
+        <item>%s ნედლი ფოთლოვანი ბოსტნეული</item>
+        <item>%s ნედლი ან მოხარშული არაფოთლოვანი ბოსტნეული</item>
+        <item>%s ბოსტნეულის წვენი</item>
+        <item>%s მშრალი სოკო</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_vegetables_imperial">
-        <item>1 cup</item>
-        <item>½ cup</item>
-        <item>½ cup</item>
-        <item>¼ cup</item>
+        <item>1 ფინჯანი</item>
+        <item>½ ფინჯანი</item>
+        <item>½ ფინჯანი</item>
+        <item>¼ ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_other_vegetables_metric">
-        <item>60 g</item>
-        <item>50 g</item>
-        <item>125 ml</item>
-        <item>7 g</item>
+        <item>60 გრ</item>
+        <item>50 გრ</item>
+        <item>125 მლ</item>
+        <item>7 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_flaxseeds">
-        <item>%s1 tablespoon ground</item>
+        <item>%s1 სუფრის კოვზი ახალდაფქული (დღეში)</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_flaxseeds_imperial">
-        <item />
+        <item></item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_flaxseeds_metric">
-        <item />
+        <item></item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_nuts">
-        <item>%s nuts or seeds</item>
-        <item>%s2 tablespoons nut or seed butter</item>
+        <item>%s თხილეული ან თესლეული</item>
+        <item>%s2 სუფრის კოვზი თხილეულის ან თესლეულის კარაქი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_nuts_imperial">
-        <item>¼ cup</item>
+        <item>¼ ფინჯანი</item>
         <item />
     </string-array>
 
     <string-array name="food_info_serving_sizes_nuts_metric">
-        <item>30 g</item>
+        <item>30 გრ</item>
         <item />
     </string-array>
 
     <string-array name="food_info_serving_sizes_spices">
-        <item>%s¼ teaspoon of turmeric</item>
-        <item>%sAny other (salt-free) herbs and spices you enjoy</item>
+        <item>%s¼ ჩ.კოვზი ტურმერიკი (კურკუმა)</item>
+        <item>%s რომელიმე სხვა სანელებელი ან საკმაზი (უმარილო)</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_spices_imperial">
-        <item />
-        <item />
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_spices_metric">
-        <item />
-        <item />
+        <item></item>
+        <item></item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_whole_grains">
-        <item>%s hot cereal or cooked grains, pasta, or corn kernels</item>
-        <item>%s cold cereal</item>
-        <item>%s1 tortilla or slice of bread</item>
-        <item>%s½ a bagel or English muffin</item>
+        <item>%s ცხელი ფაფა ან მოხარშული მარცვლეული, მაკარონი ან სიმინდი</item>
+        <item>%s გრილი ფაფა</item>
+        <item>%s1 პურის ნაჭერი</item>
+        <item>%s½ ბლითი ან მაფინი</item>
         <item>%s popped popcorn</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_whole_grains_imperial">
-        <item>½ cup</item>
-        <item>1 cup</item>
+        <item>½ ფინჯანი</item>
+        <item>1 ფინჯანი</item>
         <item />
         <item />
-        <item>3 cups</item>
+        <item>3 ფინჯანი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_whole_grains_metric">
-        <item>100 g</item>
-        <item>50 g</item>
+        <item>100 გრ</item>
+        <item>50 გრ</item>
         <item />
         <item />
-        <item>30 g</item>
+        <item>30 გრ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_beverages">
-        <item>One glass (%s)</item>
+        <item>ერთი ჭიქა (%s)</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_beverages_imperial">
-        <item>12 ounces</item>
+        <item>12 უნცია</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_beverages_metric">
@@ -647,8 +646,8 @@
     </string-array>
 
     <string-array name="food_info_serving_sizes_exercise">
-        <item>%s90 minutes of moderate-intensity activity</item>
-        <item>%s40 minutes of vigorous-intensity activity</item>
+        <item>%s90 წუთი საშუალო აქტივობა</item>
+        <item>%s40 წუთი ძლიერი აქტივობა</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_exercise_imperial">
