@@ -614,7 +614,7 @@
         <item>%s გრილი ფაფა</item>
         <item>%s1 პურის ნაჭერი</item>
         <item>%s½ ბლითი ან მაფინი</item>
-        <item>%s popped popcorn</item>
+        <item>%s ბატიბუტი</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_whole_grains_imperial">
@@ -642,7 +642,7 @@
     </string-array>
 
     <string-array name="food_info_serving_sizes_beverages_metric">
-        <item>350 ml</item>
+        <item>350 მლ</item>
     </string-array>
 
     <string-array name="food_info_serving_sizes_exercise">
