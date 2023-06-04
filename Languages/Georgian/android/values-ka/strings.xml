@@ -71,13 +71,13 @@
     <string name="dialog_ask_user_to_rate_app_message">მხარი დაგვიჭირეთ Play Store-ში.</string>
     <string name="rate_now">მხარდაჭერა</string>
     <string name="not_now">სხვა დროს</string>
-    <string name="format_version" formatted="false">version %s</string>
-    <string name="format_num_days" formatted="false">%d days</string>
-    <string name="daily_reminder_title">Daily Dozen Reminder</string>
+    <string name="format_version" formatted="false">ვერსია %s</string>
+    <string name="format_num_days" formatted="false">%d დღე</string>
+    <string name="daily_reminder_title">Daily Dozen შეხსენება</string>
     <string name="daily_reminder_text">Update your servings for today</string>
     <string name="daily_reminder_settings">Daily Reminder Settings</string>
-    <string name="enable_daily_reminder">Enable Daily Reminder</string>
-    <string name="remind_me_at">Remind me at</string>
+    <string name="enable_daily_reminder">Enable Daily შეხსენება</string>
+    <string name="remind_me_at">შეხსენების დრო</string>
     <string name="vibrate">ვიბრაცია</string>
     <string name="play_sound">ხმოვანი</string>
     <string name="videos">ვიდეოები</string>
@@ -172,7 +172,7 @@
     <string name="about_tweak">About Tweak</string>
 
     <string-array name="about_text_lines">
-        <item>ამ აპლიკაციის ავტორი John Slavick.</item>
+        <item>აპლიკაციის ავტორი John Slavick.</item>
         <item />
         <item>The following open source libraries are used: ActiveAndroid, android-iconify, EventBus, LikeAnimation, and MPAndroidChart.</item>
     </string-array>
@@ -180,7 +180,7 @@
     <string-array name="backup_instructions_lines">
         <item>Follow these steps to restore this backup in the Daily Dozen app</item>
         <item />
-        <item>1. The Daily Dozen app must be installed on your Android phone. You can download it here: https://play.google.com/store/apps/details?id=org.nutritionfacts.dailydozen</item>
+        <item>1. აპლიკაცია The Daily Dozen უნდა დაყენდეს ანდროიდ მოწყობილობაში. ის შეგიძლიათ გადმოწეროთ აქედან: https://play.google.com/store/apps/details?id=org.nutritionfacts.dailydozen</item>
         <item />
         <item>2. Tap on the backup file attached to this email.</item>
         <item />
@@ -204,66 +204,66 @@
 
     <string-array name="food_info_types_beans">
         <item>შავი ლობიო</item>
-        <item>შავი-eyed peas</item>
+        <item>შავთვალა თეთრი ლობიო</item>
         <item>Butter beans</item>
         <item>Cannellini beans</item>
         <item>Chickpeas/Garbanzo beans</item>
-        <item>Edamame</item>
-        <item>English peas</item>
+        <item>ედამამე</item>
+        <item>ინგლისური ბარდა</item>
         <item>Great northern beans</item>
-        <item>Kidney beans</item>
-        <item>Lentils (beluga, french, and red varieties)</item>
-        <item>Miso</item>
-        <item>Navy beans</item>
-        <item>Pinto beans</item>
-        <item>Small red beans</item>
-        <item>Split peas (yellow or green)</item>
+        <item>წითელი ლობიო</item>
+        <item>ოსპი (ბელუგა, ფრანგული, წითელი)</item>
+        <item>მისო</item>
+        <item>თეთრი ლობიო</item>
+        <item>ჭრელი ლობიო</item>
+        <item>წითელი წვრილი ლობიო</item>
+        <item>Split peas (ყვითელი ან მწვანე)</item>
         <item>Tempeh</item>
     </string-array>
 
     <string-array name="food_info_types_berries">
         <item>Acai berries</item>
-        <item>Barberries</item>
-        <item>შავიberries</item>
-        <item>Blueberries</item>
+        <item>კოწახური</item>
+        <item>მაყვალი</item>
+        <item>მოცვი</item>
         <item>Cherries (sweet or tart)</item>
         <item>Concord grapes</item>
         <item>Cranberries</item>
-        <item>Goji berries</item>
-        <item>Kumquats</item>
-        <item>Mulberries</item>
-        <item>Raspberries (შავი or red)</item>
-        <item>Strawberries</item>
+        <item>გოჯი</item>
+        <item>კუმკვატი</item>
+        <item>თუთა</item>
+        <item>ჟოლო (შავი ან წით.)</item>
+        <item>მარწყვი</item>
     </string-array>
 
     <string-array name="food_info_types_other_fruits">
         <item>ვაშლი</item>
-        <item>Dried apricots</item>
+        <item>გარგარის ჩირი</item>
         <item>ავოკადო</item>
         <item>ბანანი</item>
-        <item>Cantaloupe</item>
-        <item>Clementines</item>
+        <item>ნესვი კანტალუპე</item>
+        <item>მანდარინი</item>
         <item>ფინიკი</item>
-        <item>Dried figs</item>
+        <item>ლეღვის ჩირი</item>
         <item>გრეიპფრუტი</item>
-        <item>Honeydew</item>
+        <item>ნესვი</item>
         <item>კივი</item>
         <item>ლიმონი</item>
         <item>ლაიმი</item>
-        <item>Lychees</item>
+        <item>ლიჩი</item>
         <item>მანგო</item>
-        <item>Nectarines</item>
+        <item>ვაშლატამა</item>
         <item>ფორთოხალი</item>
         <item>პაპაია</item>
-        <item>Passion fruit</item>
+        <item>მარაკუია</item>
         <item>ატამი</item>
         <item>მსხალი</item>
         <item>ანანასი</item>
-        <item>Plums (especially შავი plums)</item>
+        <item>ქლიავი (განსაკ. შავი)</item>
         <item>Pluots</item>
         <item>ბროწეული</item>
-        <item>Prunes</item>
-        <item>Tangerines</item>
+        <item>შავქლიავი</item>
+        <item>ტანჟერინი</item>
         <item>საზამთრო</item>
     </string-array>
 
@@ -288,7 +288,7 @@
         <item>ინდაუ</item>
         <item>ჭარხლის ფოთოლი</item>
         <item>Collard greens</item>
-        <item>Kale (შავი, მწვანე, წითელი)</item>
+        <item>კეილი (შავი, მწვანე, წითელი)</item>
         <item>Mesclun mix (assorted young salad greens)</item>
         <item>სარეპტის მდოგვის ფოთოლი</item>
         <item>მჟაუნა</item>
@@ -298,7 +298,7 @@
     </string-array>
 
     <string-array name="food_info_types_other_vegetables">
-        <item>Artichokes</item>
+        <item>არტიშოკი</item>
         <item>სატაცური</item>
         <item>ჭარხალი</item>
         <item>Bell peppers</item>
@@ -308,12 +308,12 @@
         <item>სოკო (button, oyster, portobello, and shiitake)</item>
         <item>Okra</item>
         <item>ხახვი</item>
-        <item>Purple potatoes</item>
+        <item>იისფერი კარტოფილი</item>
         <item>გოგრა</item>
         <item>ზღვის ბოსტნეული (arame, dulse, and nori)</item>
         <item>Snap peas</item>
         <item>Squash (delicata, summer, and spaghetti squash varieties)</item>
-        <item>Sweet potatoes/yams</item>
+        <item>ბატატი</item>
         <item>პომიდორი</item>
         <item>ყაბაყი</item>
     </string-array>
@@ -324,54 +324,54 @@
     </string-array>
 
     <string-array name="food_info_types_nuts">
-        <item>Almonds</item>
-        <item>Brazil nuts</item>
-        <item>Cashews</item>
-        <item>Chia seeds</item>
-        <item>Hazelnuts</item>
+        <item>ნუში</item>
+        <item>ბრაზილ. თხილი</item>
+        <item>აკაჟუ</item>
+        <item>ჩიას თესლი</item>
+        <item>თხილი</item>
         <item>Hemp seeds</item>
-        <item>Macadamia nuts</item>
-        <item>Pecans</item>
-        <item>Pistachios</item>
-        <item>Pumpkin seeds</item>
-        <item>Sesame seeds</item>
-        <item>Sunflower seeds</item>
-        <item>Walnuts</item>
+        <item>მაკადამია</item>
+        <item>პეკანი</item>
+        <item>ფსტა</item>
+        <item>გოგრის თესლი</item>
+        <item>სეზამის თესლი</item>
+        <item>მზესუმზირა</item>
+        <item>ნიგოზი</item>
     </string-array>
 
     <string-array name="food_info_types_spices">
         <item>Allspice</item>
-        <item>Barberries</item>
-        <item>Basil</item>
-        <item>Bay leaves</item>
-        <item>Cardamom</item>
-        <item>Chili powder</item>
-        <item>Cilantro</item>
-        <item>Cinnamon</item>
-        <item>Cloves</item>
-        <item>Coriander</item>
+        <item>კოწახური</item>
+        <item>რეჰანი</item>
+        <item>დაფნა</item>
+        <item>ილი</item>
+        <item>ჩილი</item>
+        <item>ქინძი</item>
+        <item>დარიჩინი</item>
+        <item>მიხაკი</item>
+        <item>ქინძის თესლი</item>
         <item>ძირა</item>
-        <item>Curry powder</item>
-        <item>Dill</item>
-        <item>Fenugreek</item>
+        <item>კარრი</item>
+        <item>კამა</item>
+        <item>უცხო სუნელი</item>
         <item>ნიორი</item>
-        <item>Ginger</item>
-        <item>Horseradish</item>
-        <item>Lemongrass</item>
-        <item>Marjoram</item>
+        <item>ჯანჯაფილი</item>
+        <item>პირშუშხა</item>
+        <item>ლემონგრასი</item>
+        <item>მაიორანი</item>
         <item>Mustard powder</item>
-        <item>Nutmeg</item>
-        <item>Oregano</item>
-        <item>Smoked paprika</item>
-        <item>Parsley</item>
-        <item>Pepper</item>
-        <item>Peppermint</item>
-        <item>Rosemary</item>
-        <item>Saffron</item>
-        <item>Sage</item>
-        <item>Thyme</item>
-        <item>Turmeric</item>
-        <item>Vanilla</item>
+        <item>ჯავზი</item>
+        <item>თავშავა</item>
+        <item>პაპრიკა</item>
+        <item>ოხრახუში</item>
+        <item>წიწაკა</item>
+        <item>პიტნა</item>
+        <item>როზმარინი</item>
+        <item>ზაფრანა</item>
+        <item>სალბი</item>
+        <item>ქონდარი</item>
+        <item>კურკუმა</item>
+        <item>ვანილი</item>
     </string-array>
 
     <string-array name="food_info_types_whole_grains">
@@ -380,74 +380,74 @@
         <item>ფეტვი</item>
         <item>შვრია</item>
         <item>სიმინდი</item>
-        <item>Quinoa</item>
-        <item>Rye</item>
-        <item>Teff</item>
-        <item>Whole-wheat pasta</item>
+        <item>ქინოა</item>
+        <item>ჭვავი</item>
+        <item>ტეფი</item>
+        <item>მთელმარცვლა პასტა</item>
     </string-array>
 
     <string-array name="food_info_types_beverages">
         <item>შავი ჩაი</item>
         <item>Chai tea</item>
-        <item>Vanilla chamomile tea</item>
+        <item>Vanilla chamomile</item>
         <item>ყავა</item>
-        <item>Earl grey tea</item>
+        <item>Earl grey</item>
         <item>მწვანე ჩაი</item>
         <item>ჰიბისკუსი</item>
         <item>ცხელი შოკოლადი</item>
-        <item>Jasmine tea</item>
+        <item>ჟასმინი</item>
         <item>Lemon balm tea</item>
         <item>მატჩას ჩაი</item>
-        <item>Almond blossom oolong tea</item>
-        <item>Peppermint tea</item>
-        <item>Rooibos tea</item>
+        <item>Almond blossom oolong</item>
+        <item>პიტნა</item>
+        <item>როიბოსი</item>
         <item>წყალი</item>
         <item>თეთრი ჩაი</item>
     </string-array>
 
     <string-array name="food_info_types_exercise">
         <item>ველოსიპედი</item>
-        <item>Canoeing</item>
+        <item>კანოე</item>
         <item>ცეკვა</item>
-        <item>Dodgeball</item>
-        <item>Downhill skiing</item>
-        <item>Fencing</item>
+        <item>დოჯბოლი</item>
+        <item>თხილამურებით დაშვება</item>
+        <item>ფარიკაობა</item>
         <item>ლაშქრობა</item>
         <item>საშინაო საქმე</item>
         <item>ციგურაობა</item>
         <item>გორგოლაჭი</item>
         <item>ჟონგლირება</item>
-        <item>Jumping on a trampoline</item>
-        <item>Paddle boating</item>
-        <item>Playing frisbee</item>
-        <item>Roller-skating</item>
-        <item>Shooting baskets</item>
+        <item>ბატუტი</item>
+        <item>წყლის ველოსიპედი</item>
+        <item>ფრისბი</item>
+        <item>როლერი</item>
+        <item>კალათში ბურთსროლა</item>
         <item>Shoveling light snow</item>
-        <item>Skateboarding</item>
-        <item>Snorkeling</item>
+        <item>სკეიტბორდი</item>
+        <item>ყვინთვა</item>
         <item>სერფინგი</item>
         <item>Swimming recreationally</item>
         <item>ტენისი (წყვილად)</item>
         <item>Treading water</item>
         <item>Walking briskly (4 mph)</item>
-        <item>Water aerobics</item>
-        <item>Waterskiing</item>
-        <item>Yard work</item>
+        <item>წყლის აერობიკა</item>
+        <item>წყლის თხილამური</item>
+        <item>მებაღეობა</item>
         <item>იოგა</item>
-        <item>Backpacking</item>
+        <item>ზურგჩანთით ლაშქრობა</item>
         <item>კალათბურთი</item>
         <item>ველოსიპედით აღმასვლა</item>
         <item>Circuit weight training</item>
-        <item>Cross-country skiing</item>
+        <item>თხილამურებით ლაშქრობა</item>
         <item>ამერიკული ფეხბურთი</item>
         <item>ჰოკეი</item>
         <item>ძუნძული</item>
         <item>Jumping jacks</item>
-        <item>Jumping rope</item>
-        <item>Lacrosse</item>
+        <item>ლახტი</item>
+        <item>ლაკროსი</item>
         <item>აზიდვები</item>
         <item>აწევები</item>
-        <item>Racquetball</item>
+        <item>ჩოგბურთი</item>
         <item>კლდეზე ცოცვა</item>
         <item>რაგბი</item>
         <item>სირბილი</item>
@@ -455,8 +455,8 @@
         <item>ტენისი (ეულად)</item>
         <item>ფეხბურთი</item>
         <item>Speed skating</item>
-        <item>Squash</item>
-        <item>Step aerobics</item>
+        <item>სკვოში</item>
+        <item>სტეპ აერობიკა</item>
         <item>Swimming laps</item>
         <item>Walking briskly uphill</item>
         <item>Water jogging</item>
